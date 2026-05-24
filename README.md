@@ -51,6 +51,4 @@ Here are some ideas to get you started:
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankith179&layout=compact&langs_count=8" alt="Top Languages" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankith179" alt="GitHub Streak" /></p>
